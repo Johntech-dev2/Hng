@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+.date{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.data{
+    border-radius: 50px;
+    background-color: ghostwhite;
+    margin-top: 20px;
+    height: 1000px;
+}
+.john{
+    width: 200px;
+    border-radius: 100px;
+    margin-left: 42%;
+    margin-top: 20px;
+}
+.name{
+    text-align: center;
+}
+.Profile{
+    display: flex;
+    gap: 20px;
+    justify-content:center ;
+}
+.track{
+   border-radius: 10px;
+   background-color: aquamarine;
+   padding: 20px;
+}
+.git{
+    border-radius: 10px;
+    background-color: aquamarine;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.git:hover{
+  background-color: aqua;
+}
+.track:hover{
+    background-color: aqua;
+}
